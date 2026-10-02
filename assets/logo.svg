@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220">
+  <rect width="720" height="220" rx="36" fill="#0b1f3a"/>
+  <g fill="none" stroke="#93c5fd" stroke-width="12" stroke-linecap="round">
+    <path d="M115 48v112"/><path d="M65 82h100"/><path d="M55 82l-35 58h70z"/><path d="M175 82l-35 58h70z"/><path d="M60 160h110"/>
+  </g>
+  <text x="220" y="112" font-family="Arial, sans-serif" font-size="62" font-weight="700" fill="white">LegalEase</text>
+  <text x="225" y="154" font-family="Arial, sans-serif" font-size="23" fill="#bfdbfe">AI-Powered Legal Document Generator</text>
+</svg>
